@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # CNN-Based-Classification-of-Breast-Images
 ## Introduction
 This project aims to leverage deep learning techniques,
