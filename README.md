@@ -28,8 +28,7 @@ which is 70% of the entire dataset. The validation data has
 has 1,187 samples, both contributing to 30% of the dataset.
 
 ## Experiment
-IV. EXPERIMENT
-A. Evaluation Metrics
+Evaluation Metrics
 The results of both the custom CNN and the ResNet18
 pretrained model are evaluated on the same evaluation metrics
 to ensure consistency and to better compare the performance
@@ -78,7 +77,11 @@ CNN model and achieves the best recall score of 98%.
 
 ## Comparisons
 METRIC CUSTOM CNN RESNET18
+
 ACCURACY 87.36% 96.38%
+
 PRECISION 91.93% 95.51%
+
 RECALL 89.45% 98.28%
+
 F1 SCORE 90.67% 97.39%
